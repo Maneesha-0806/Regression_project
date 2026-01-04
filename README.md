@@ -134,5 +134,3 @@ This project demonstrates how regression models can predict Indian unicorn start
 * Include additional features such as revenue, employee count, and funding rounds.
 * Explore **hyperparameter tuning** for Ridge and Lasso models.
 * Create a **web-based app** for interactive valuation predictions.
-
-Do you want me to do that next?
